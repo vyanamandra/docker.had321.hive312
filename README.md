@@ -28,6 +28,9 @@ Docker setup to create a container with Hadoop 3.2.1 &amp; Hive 3.1.2
 
 ## You could now use client utility to connect to this instance. If I may suggest try DBeaver (https://dbeaver.io/) it is fun!
     
+    
+## ToDo:
+Use external volumes for conf/logs/[name/data]node dirs.
 
 ### Any changes or improvements, please email me @ venu.yanamandra@yahoo.com
 ###  I will be very happy to learn.
