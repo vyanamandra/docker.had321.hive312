@@ -26,7 +26,7 @@ Docker setup to create a container with Hadoop 3.2.1 &amp; Hive 3.1.2
     docker run -itd -p 10000:10000 --name vy.had321.hive312 vyanamandra:0.1-had321.hive312
 ```
 
-## You could now use client utility to connect to this instance.
+## You could now use any client utility to connect to this hive (hs2) instance servicing requests on port 10000.
   If I may suggest, please try DBeaver (https://dbeaver.io/) it is fun!
     
     
