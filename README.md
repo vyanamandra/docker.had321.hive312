@@ -15,7 +15,7 @@ Docker setup to create a container with Hadoop 3.2.1 &amp; Hive 3.1.2
 ```bash
     git clone https://github.com/vyanamandra/docker.had321.hive312.git
     cd docker.had321.hive312
-    docker build -t vyanamandra:0.1-hd321-hi312 .
+    docker build -t vyanamandra:0.1-had321.hive312 .
 ```
 
     
