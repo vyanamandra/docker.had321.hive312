@@ -2,7 +2,7 @@
 
     
 # Docker Container with Hive 3.1.2 over Hadoop 3.2.1
-## Maintainer: Venu Yanamandra (venu.yanamandra@yahoo.com)
+## Maintainer: Venu Yanamandra
 Docker setup to create a container with Hadoop 3.2.1 &amp; Hive 3.1.2 
 
 
@@ -34,4 +34,4 @@ Docker setup to create a container with Hadoop 3.2.1 &amp; Hive 3.1.2
 Use external volumes for conf/logs/[name/data]node dirs.
 
 ### Any changes or improvements:
-  Please email me @ venu.yanamandra@yahoo.com. I will be very happy to learn.
+  Please leave a comment. I will be very happy to learn.
